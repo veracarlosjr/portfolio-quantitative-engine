@@ -21,19 +21,22 @@ portfolio-quantitative-engine/
 ├── portfolio_analysis.ipynb   # Notebook principal con el motor de análisis
 ├── requirements.txt           # Dependencias del proyecto
 └── README.md                  # Documentación del proyecto
-
+```
 ## ⚙️ Cómo Ejecutar el Proyecto
 1. Clona este repositorio:
    ```bash
    git clone https://github.com/veracarlosjr/portafolio-quantitative-engine.git
+   ```
 
 2. Instalar dependencias:
-
+    ```bash
 pip install -r requirements.txt
+    ```
 
 3. Abre la libreta en Jupyter Notebook: 
     ```bash
     jupyter notebook portfolio_analysis.ipynb
+    ```
 
     
 Desarrollado por Carlos Vera
