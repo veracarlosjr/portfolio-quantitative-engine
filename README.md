@@ -25,12 +25,12 @@ portfolio-quantitative-engine/
 ## ⚙️ Cómo Ejecutar el Proyecto
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/veracarlosjr/portafolio-quantitative-engine.git
+   git clone https://github.com/veracarlosjr/portfolio-quantitative-engine.git
    ```
 
 2. Instalar dependencias:
     ```bash
-pip install -r requirements.txt
+    pip install -r requirements.txt
     ```
 
 3. Abre la libreta en Jupyter Notebook: 
