@@ -88,11 +88,7 @@ Para correr el análisis sobre tu propia cartera, solo tenés que editar el dicc
 
 Este proyecto tiene fines educativos y de demostración técnica. No constituye asesoramiento financiero ni una recomendación de inversión. Los datos de la cartera utilizados son reales pero el análisis no debe usarse como única base para decisiones de inversión.
 
-## 📄 Licencia
-
-Este proyecto está bajo la licencia MIT. Ver el archivo `LICENSE` para más detalles.
-
 ## 👤 Autor
 
 Desarrollado por **Carlos Vera**
-[LinkedIn](TU_LINK_DE_LINKEDIN_ACA) · [GitHub](https://github.com/veracarlosjr)
+[LinkedIn](https://www.linkedin.com/in/veracarlosjr/) · [GitHub](https://github.com/veracarlosjr)
